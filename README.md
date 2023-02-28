@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=abhi-jitz&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-jitz" /></p>
 
-- 🔭 I’m currently working on **My Third project** - 🌱 I’m currently learning **Python,php** - 📫 How to reach me **abhijithsoftdev@gmail.com** - ⚡ Fun fact **I think I am hysterical**
+- 🔭 I’m currently working at **Trenser** - 🌱 I’m currently learning **Kotlin** - 📫 How to reach me **abhijithsoftdev@gmail.com** - ⚡ Fun fact **I think I am hysterical**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
